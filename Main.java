@@ -1,5 +1,3 @@
-package dev.xmroot.redehid;
-
 import org.bukkit.ChatColor;
 import org.bukkit.GameMode;
 import org.bukkit.command.Command;
