@@ -1,8 +1,9 @@
 # Como usar:
-Na url basta por ?cpf=, exemplo: api_cpf.php?cpf=xxxxxxxxxxx
+É necessario a lib TitleAPI 1.8.1
+Basta entrar e digitar /gm [1 ou 0]
 
-# RESULTADO DA CONSULTA:
-![alt text](https://raw.githubusercontent.com/Xmroot/API_CONSULTARCPF/main/Resultado.png)
+# GAMEMODE 0
+![alt text](https://github.com/Xmroot/XRUtils/blob/main/2023-07-30_19.28.44.png)
 
-# NAVBAR URL
-![alt text](https://raw.githubusercontent.com/Xmroot/API_CONSULTARCPF/main/Pesquisa.png)
+# GAMEMODE 1
+![alt text](https://github.com/Xmroot/XRUtils/blob/main/2023-07-30_19.28.17.png)
